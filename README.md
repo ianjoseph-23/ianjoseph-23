@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1>Hi, I'm Ian! </h1>
+<h2>👨‍💻 Data Science Projects:</h2>
 
-<!--
-**ianjoseph-23/ianjoseph-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- <b>Python</b>
+  - [Prediction of Road Accident Locations using Real-Time Weather Data](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [ML Analysis of a Stroke Prediction](https://github.com/joshmadakor1/Algorithms-Practice)
+     
 
-Here are some ideas to get you started:
+<h2> 🤳 Connect with me:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
