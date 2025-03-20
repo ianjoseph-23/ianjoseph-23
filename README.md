@@ -2,14 +2,14 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Python</b>
-  - [Prediction of Road Accident Locations using Real-Time Weather Data](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [ML Analysis of a Stroke Prediction](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Prediction of Road Accident Locations using Real-Time Weather Data]()
+  - [ML Analysis of a Stroke Prediction]()
      
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="IanJoseph | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="IanJoseph | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 [instagram]: https://www.instagram.com/ianjoseph_23/
